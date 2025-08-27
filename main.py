@@ -1,4 +1,4 @@
-print("Hola mi onmbre es leonardo")
+print("Hola mi onmbre es leonardo<")
 print("Tengo 17 años")
 print("Estudio en el Simon bolivar")
 print("No tengo ni la minima idea de que estudiar")
